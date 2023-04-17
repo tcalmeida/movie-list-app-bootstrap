@@ -1,0 +1,13 @@
+body {
+  font-family: 'Lobster', cursive;
+  background-color: #c0c0c0;
+}
+
+.navbar {
+  background-color: black !important;
+}
+
+.carousel-item > img {
+  margin: auto;
+  height: 500px;
+}
