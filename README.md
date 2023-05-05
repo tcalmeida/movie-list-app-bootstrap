@@ -2,7 +2,7 @@
 
 A simple movie list app using Bootstrap that shows top movies showing in theaters. Study purposes
 
-##Tech Stacks:
+## Tech Stacks
 
 - Javascript
 - Bootstrap
